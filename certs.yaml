@@ -25,25 +25,9 @@ nexttideorg:
   ca: 'LetsEncrypt'
   disable_event: true
 
-dcmultiversewikicom:
-  url: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mwcosmoscom:
-  url: 'mwcosmos.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-rippaversewikicom:
-  url: 'rippaversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwpolandballwikicom:
   url: 'www.polandballwiki.com'
   sslname: 'polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-beaconspaceunrestrictedlorefarecom:
-  url: 'beaconspace.unrestrictedlorefare.com'
   ca: 'LetsEncrypt'
   disable_event: false
 hkrailwiki:
@@ -68,10 +52,6 @@ masonsagan4org:
   sslname: 'beta.sagan4.org'
   ca: 'LetsEncrypt'
   disable_event: false
-periloustimescom:
-  url: 'perilous-times.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 lophocmatnguwiki:
   url: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
@@ -81,16 +61,8 @@ hscklophocmatnguwiki:
   sslname: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-directorwiki:
-  url: 'director.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwavidwiki:
-  url: 'www.avid.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 wikicolleimadcatcom:
