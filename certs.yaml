@@ -106,3 +106,7 @@ realitylongtermsstudio:
   url: 'realitylongterms.studio'
   ca: 'LetsEncrypt'
   disable_event: false
+sdiyinfo:
+  url: 'sdiy.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
