@@ -110,3 +110,7 @@ sdiyinfo:
   url: 'sdiy.info'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiburningart:
+  url: 'wiki.burning.art'
+  ca: 'LetsEncrypt'
+  disable_event: false
