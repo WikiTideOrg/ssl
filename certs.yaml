@@ -115,3 +115,7 @@ wikiburningart:
   url: 'wiki.burning.art'
   ca: 'LetsEncrypt'
   disable_event: false
+projectsdmvpetridishcom:
+  url: 'projects.dmvpetridish.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
