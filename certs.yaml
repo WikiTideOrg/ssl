@@ -127,3 +127,7 @@ mlrpgspeedrunscom:
   url: 'mlrpgspeedruns.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimyehseu:
+  url: 'wiki.myehs.eu'
+  ca: 'LetsEncrypt'
+  disable_event: false
