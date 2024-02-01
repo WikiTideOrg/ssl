@@ -1,9 +1,4 @@
 ---
-wwwwikitideredirect:
-  url: 'www.wikitide.org'
-  redirect: 'wikitide.org'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
 polandballwikicom:
   url: 'polandballwiki.com'
   redirect: 'www.polandballwiki.com'
