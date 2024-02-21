@@ -1,10 +1,4 @@
 ---
-polandballwikicom:
-  url: 'polandballwiki.com'
-  redirect: 'www.polandballwiki.com'
-  sslname: 'polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwfarthestfrontierwiki:
   url: 'www.farthestfrontier.wiki'
   redirect: 'farthestfrontier.wiki'
