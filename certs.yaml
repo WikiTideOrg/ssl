@@ -14,15 +14,6 @@ wikitidenet:
   disable_event: true
 
 # Production
-wwwpolandballwikicom:
-  url: 'www.polandballwiki.com'
-  sslname: 'polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-hkrailwiki:
-  url: 'hkrail.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 metasagan4org:
   url: 'meta.sagan4.org'
   ca: 'LetsEncrypt'
@@ -67,10 +58,6 @@ distrowikinet:
   url: 'distrowiki.net'
   ca: 'LetsEncrypt'
   disable_event: false
-newcascadianet:
-  url: 'newcascadia.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 thegreatwaruk:
   url: 'thegreatwar.uk'
   ca: 'LetsEncrypt'
@@ -101,10 +88,6 @@ projectsdmvpetridishcom:
   disable_event: false
 wikichevrinecom:
   url: 'wiki.chevrine.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mlrpgspeedrunscom:
-  url: 'mlrpgspeedruns.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikimyehseu:
