@@ -90,10 +90,6 @@ wikichevrinecom:
   url: 'wiki.chevrine.com'
   ca: 'LetsEncrypt'
   disable_event: false
-mlrpgspeedrunscom:
-  url: 'mlrpgspeedruns.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikimyehseu:
   url: 'wiki.myehs.eu'
   ca: 'LetsEncrypt'
